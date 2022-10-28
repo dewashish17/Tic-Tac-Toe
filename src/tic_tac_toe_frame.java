@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 public class tic_tac_toe_frame extends javax.swing.JFrame {
 
     /**
-     * Creates new form tic_tac_toe_frame
+     * Creates new form tic_tac_toe_frame fg
      */
     private  String turn ="O";
     private  int xCount=0;
